@@ -18,7 +18,7 @@ body {
 
 .container-one {
   background-color: white;
-  padding: 25px 20px;
+  padding: 30px 25px;
   border-radius: 5px 5px 0 0;
 }
 .container-one h3 {
@@ -35,7 +35,7 @@ body {
 }
 
 .container-two {
-  padding: 22px 20px;
+   padding: 30px 25px;
   background-color: hsl(179, 62%, 43%);
   color: white;
 }
@@ -67,7 +67,7 @@ button {
 
 .container-three {
   background-color: hsl(179, 62%, 43%, 0.7);
-  padding: 20px;
+  padding: 30px 25px;
   color: white;
   border-radius: 0 0 5px 5px;
 }
