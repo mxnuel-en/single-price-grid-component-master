@@ -93,7 +93,7 @@ button {
   font-weight: bold;
 }
 
-@media (min-width: 425px){
+@media (min-width: 768px){
    body{
       height: 100vh;
       justify-content: center;
@@ -103,7 +103,7 @@ button {
    }
    .wrapper {
       margin: 0 auto;
-      width: 400px;
+      width: 700px;
       max-width: 700px;
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -114,6 +114,9 @@ button {
 }
 
 @media (min-width: 1440px){
+   .wrapper{
+      width: none;
+   }
    .container-one{
       padding: 40px 90px 40px 40px;
       grid-column: span 2;
