@@ -101,9 +101,6 @@ button {
    .container-one, .container-two, .container-three {
       padding: 25px;
    }
-}
-
-@media (min-width: 1440px){
    .wrapper {
       max-width: 700px;
       display: grid;
@@ -122,4 +119,8 @@ button {
       padding: 40px;
       border-radius: 0 0 5px 0;
    }
+}
+
+@media (min-width: 1440px){
+   
 }
